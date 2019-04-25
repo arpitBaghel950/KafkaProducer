@@ -1,4 +1,4 @@
-package com.example.springbootkafkaproducer.resource;
+package com.example.springbootkafkaproducer.controller;
 
 import com.example.springbootkafkaproducer.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
